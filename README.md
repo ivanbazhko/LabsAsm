@@ -1,6 +1,6 @@
 # LabsAsm
 <hr>
-<h3 href = "https://github.com/ivanbazhko/LabsAsm/blob/master/Lab1_1.asm">Lab1:</h3> 
+<h3>Lab1:</h3> 
 1) Ввести строку и вывести её на экран<br>
 2) Вывести несколько строк на экран
 <h3>Lab2:</h3>
